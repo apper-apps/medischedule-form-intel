@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "name": "Sarah Johnson",
+    "phone": "(555) 123-4567",
+    "email": "sarah.johnson@email.com",
+    "dateOfBirth": "1985-03-15"
+  },
+  {
+    "Id": 2,
+    "name": "Michael Chen",
+    "phone": "(555) 234-5678",
+    "email": "michael.chen@email.com",
+    "dateOfBirth": "1972-08-22"
+  },
+  {
+    "Id": 3,
+    "name": "Emily Rodriguez",
+    "phone": "(555) 345-6789",
+    "email": "emily.rodriguez@email.com",
+    "dateOfBirth": "1990-11-08"
+  },
+  {
+    "Id": 4,
+    "name": "David Thompson",
+    "phone": "(555) 456-7890",
+    "email": "david.thompson@email.com",
+    "dateOfBirth": "1965-05-30"
+  },
+  {
+    "Id": 5,
+    "name": "Lisa Anderson",
+    "phone": "(555) 567-8901",
+    "email": "lisa.anderson@email.com",
+    "dateOfBirth": "1978-12-03"
+  },
+  {
+    "Id": 6,
+    "name": "James Wilson",
+    "phone": "(555) 678-9012",
+    "email": "james.wilson@email.com",
+    "dateOfBirth": "1983-07-18"
+  },
+  {
+    "Id": 7,
+    "name": "Maria Garcia",
+    "phone": "(555) 789-0123",
+    "email": "maria.garcia@email.com",
+    "dateOfBirth": "1992-01-25"
+  },
+  {
+    "Id": 8,
+    "name": "Robert Lee",
+    "phone": "(555) 890-1234",
+    "email": "robert.lee@email.com",
+    "dateOfBirth": "1970-09-12"
+  },
+  {
+    "Id": 9,
+    "name": "Jessica Brown",
+    "phone": "(555) 901-2345",
+    "email": "jessica.brown@email.com",
+    "dateOfBirth": "1987-04-07"
+  },
+  {
+    "Id": 10,
+    "name": "Christopher Davis",
+    "phone": "(555) 012-3456",
+    "email": "christopher.davis@email.com",
+    "dateOfBirth": "1975-10-14"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "Id": 1,
+    "patientId": 1,
+    "doctorId": 1,
+    "date": "2024-01-15",
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "type": "Consultation",
+    "status": "Scheduled",
+    "notes": "Initial consultation for recurring headaches"
+  },
+  {
+    "Id": 2,
+    "patientId": 2,
+    "doctorId": 2,
+    "date": "2024-01-15",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "type": "Follow-up",
+    "status": "Completed",
+    "notes": "Follow-up for diabetes management"
+  },
+  {
+    "Id": 3,
+    "patientId": 3,
+    "doctorId": 1,
+    "date": "2024-01-15",
+    "startTime": "11:00",
+    "endTime": "11:30",
+    "type": "Check-up",
+    "status": "Scheduled",
+    "notes": "Annual physical examination"
+  },
+  {
+    "Id": 4,
+    "patientId": 4,
+    "doctorId": 3,
+    "date": "2024-01-15",
+    "startTime": "14:00",
+    "endTime": "14:30",
+    "type": "Consultation",
+    "status": "Scheduled",
+    "notes": "Joint pain evaluation"
+  },
+  {
+    "Id": 5,
+    "patientId": 5,
+    "doctorId": 4,
+    "date": "2024-01-15",
+    "startTime": "15:00",
+    "endTime": "15:30",
+    "type": "Emergency",
+    "status": "Completed",
+    "notes": "Chest pain evaluation - cleared"
+  },
+  {
+    "Id": 6,
+    "patientId": 6,
+    "doctorId": 2,
+    "date": "2024-01-16",
+    "startTime": "09:30",
+    "endTime": "10:00",
+    "type": "Follow-up",
+    "status": "Scheduled",
+    "notes": "Post-surgery follow-up"
+  },
+  {
+    "Id": 7,
+    "patientId": 7,
+    "doctorId": 5,
+    "date": "2024-01-16",
+    "startTime": "10:30",
+    "endTime": "11:00",
+    "type": "Consultation",
+    "status": "Scheduled",
+    "notes": "Skin condition assessment"
+  },
+  {
+    "Id": 8,
+    "patientId": 8,
+    "doctorId": 1,
+    "date": "2024-01-16",
+    "startTime": "11:30",
+    "endTime": "12:00",
+    "type": "Walk-in",
+    "status": "Scheduled",
+    "notes": "Walk-in patient with flu symptoms"
+  },
+  {
+    "Id": 9,
+    "patientId": 9,
+    "doctorId": 6,
+    "date": "2024-01-17",
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "type": "Check-up",
+    "status": "Scheduled",
+    "notes": "Eye examination"
+  },
+  {
+    "Id": 10,
+    "patientId": 10,
+    "doctorId": 3,
+    "date": "2024-01-17",
+    "startTime": "14:30",
+    "endTime": "15:00",
+    "type": "Consultation",
+    "status": "Cancelled",
+    "notes": "Patient cancelled due to scheduling conflict"
+  },
+  {
+    "Id": 11,
+    "patientId": 1,
+    "doctorId": 2,
+    "date": "2024-01-18",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "type": "Follow-up",
+    "status": "Scheduled",
+    "notes": "Follow-up for headache treatment"
+  },
+  {
+    "Id": 12,
+    "patientId": 3,
+    "doctorId": 4,
+    "date": "2024-01-18",
+    "startTime": "15:30",
+    "endTime": "16:00",
+    "type": "Consultation",
+    "status": "Scheduled",
+    "notes": "Cardiac evaluation"
+  }
+]
