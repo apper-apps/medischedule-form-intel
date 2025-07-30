@@ -3,7 +3,7 @@ import Card from "@/components/atoms/Card";
 import Badge from "@/components/atoms/Badge";
 import ApperIcon from "@/components/ApperIcon";
 import { format } from "date-fns";
-import { cn } from "@/lib/utils";
+import { cn } from "@/utils/cn";
 const AppointmentCard = ({ appointment, onClick, patient, doctor }) => {
   const getStatusVariant = (status) => {
     switch (status.toLowerCase()) {
